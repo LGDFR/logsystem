@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "discord.js": "^13.7.0",
+    "node-cron": "^3.0.0",
+    "node-fetch": "^2.6.7"
+  },
+  "name": "logsystem",
+  "version": "1.0.0",
+  "description": "Permet de faire du logs et de l'envoyer",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LGDFR/logsystem.git"
+  },
+  "author": "LGDFR (EwayNock)",
+  "license": "SEE LICENSE IN License.md",
+  "bugs": {
+    "url": "https://github.com/LGDFR/logsystem/issues"
+  },
+  "homepage": "https://github.com/LGDFR/logsystem#readme"
+}
